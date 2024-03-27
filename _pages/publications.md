@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-1.  Molho W, Raymond N, Reinhart RMG, Trotti R, _Grover S_, Keshavan M, Lizano P (2023). Lesion network guided delta frequency neuromodulation improves cognition in patients with psychosis spectrum disorders: A pilot study. **Asian Journal of Psychiatry**. 92, 103887.
 
+1.  Molho W, Raymond N, Reinhart RMG, Trotti R, _Grover S_, Keshavan M, Lizano P (2023). Lesion network guided delta frequency neuromodulation improves cognition in patients with psychosis spectrum disorders: A pilot study. **Asian Journal of Psychiatry**. 92, 103887.
 
 2.  Raymond N, Reinhart RMG, Trotti R, Parker D, _Grover S_, Turkozer B, Sabatinelli D, Hegde R, Bannai D, Gandu S, Clementz B, Keshavan M, Lizano P (2023). Efficacy and tolerability of lesion network guided transcranial electrical stimulation in outpatients with psychosis spectrum illness: A nonrandomized controlled trial. **Asian Journal of Psychiatry**. 88, 103750.
 
@@ -16,13 +16,7 @@ author_profile: true
 
 5.  _Grover S_, Wen W, Viswanathan V, Gill CT, Reinhart RMG (2022). Long-lasting, dissociable improvements in working memory and long-term memory in older adults with repetitive neuromodulation. **Nature Neuroscience**. 25:1237-1246.
 
-#Commentary: Rogers, J (2022). A frequency location to remember. Nature Reviews Neuroscience. 23:644645.
-
 6.  _Grover S_, Nguyen JA, Viswanathan V, Reinhart RMG (2021). High-definition neuromodulation improves obsessive-compulsive behavior. **Nature Medicine**. 27(2):232-238.
-
-#Commentary: Figee M, Mayberg H (2021). The future of personalized brain stimulation. Nature Medicine. 27:196-197.
-
-#Commentary: Frohlich F, Riddle J, Abramowitz JS (2021) Transcranial alternating current stimulation for the treatment of obsessive-compulsive disorder? **Brain Stimulation**. 14(4):1048- 1050.
 
 7.  _Grover S_, Nguyen JA, Viswanathan V, Reinhart RMG (2021). Synchronizing brain rhythms to improve cognition. **Annual Review of Medicine**. 72:29-43.
 
