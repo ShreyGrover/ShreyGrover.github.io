@@ -12,7 +12,7 @@ title                    : "Shrey Grover"
 title_separator          : "-"
 name                     : &name "Shrey Grover"
 description              : &description "personal description"
-url                      : https://shreygrover.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://shreygrover.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShreyGrover/shreygrover.github.io"
 
@@ -21,7 +21,7 @@ repository               : "ShreyGrover/shreygrover.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Shrey-Grover.jpg"
+  avatar           : "/Users/shreygrover/Documents/GitHub/shreygrover.github.io/Shrey-Grover.jpg"
   name             : "Shrey Grover"
   pronouns         : # example: "he/him"  
   bio              : "Postdoctoral Associate"
