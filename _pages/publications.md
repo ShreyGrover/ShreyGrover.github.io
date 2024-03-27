@@ -5,12 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+1.  Molho W, Raymond N, Reinhart RMG, Trotti R, Grover S, Keshavan M, Lizano P (2023). Lesion network guided delta frequency neuromodulation improves cognition in patients with psychosis spectrum disorders: A pilot study. Asian Journal of Psychiatry. 92, 103887.
 
-{% include base_path %}
+2.  Raymond N, Reinhart RMG, Trotti R, Parker D, Grover S, Turkozer B, Sabatinelli D, Hegde R, Bannai D, Gandu S, Clementz B, Keshavan M, Lizano P (2023). Efficacy and tolerability of lesion network guided transcranial electrical stimulation in outpatients with psychosis spectrum illness: A nonrandomized controlled trial. Asian Journal of Psychiatry. 88, 103750.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+3.  Grover S, Fayzullina R, Bullard BM, Levina V, Reinhart RMG (2023). tACS improves cognition in healthy, aging, and psychiatric populations: A systematic review and meta-analysis. Science Translational Medicine. 15(697), eabo2044.
+
+4.  Cheng P, Grover S, Wen W, Sankaranarayanan S, Fragetta J, Davies S, Soto D, Reinhart RMG (2022). Dissociable rhythmic mechanisms enhance memory for conscious and nonconscious perceptual contents. Proceedings of the National Academy of Sciences U. S. A. 119(44): e2211147119.
+
+5.  Grover S, Wen W, Viswanathan V, Gill CT, Reinhart RMG (2022). Long-lasting, dissociable improvements in working memory and long-term memory in older adults with repetitive neuromodulation. Nature Neuroscience. 25:1237-1246.
+
+Commentary: Rogers, J (2022). A frequency location to remember. Nature Reviews Neuroscience. 23:644645.
+
+6.  Grover S, Nguyen JA, Viswanathan V, Reinhart RMG (2021). High-definition neuromodulation improves obsessive-compulsive behavior. Nature Medicine. 27(2):232-238.
+
+Commentary: Figee M, Mayberg H (2021). The future of personalized brain stimulation. Nature Medicine. 27:196-197.
+
+Commentary: Frohlich F, Riddle J, Abramowitz JS (2021) Transcranial alternating current stimulation for the treatment of obsessive-compulsive disorder? Brain Stimulation. 14(4):1048- 1050.
+
+7.  Grover S, Nguyen JA, Viswanathan V, Reinhart RMG (2021). Synchronizing brain rhythms to improve cognition. Annual Review of Medicine. 72:29-43.
+
+8.  Banerjee S*, Grover S*, Ganesh S, Sridharan D (2019). Sensory and decisional components of endogenous attention are dissociable. Journal of Neurophysiology. 122:15381554.
+
+9.  Banerjee S, Grover S, Sridharan D (2017). Unraveling causal mechanisms of top-down and bottom-up visuospatial attention with non-invasive brain stimulation. Journal of The Indian Institute of Science. 97:451475.
+
