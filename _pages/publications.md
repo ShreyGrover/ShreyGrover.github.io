@@ -47,7 +47,7 @@ _Grover S_, Reinhart RMG (2019).
 In Pollman S. (Ed). **Spatial Learning and Attention Guidance. Neuromethods, Springer Nature**. New York, NY.
 
 11. [Sensory and decisional components of endogenous attention are dissociable.](https://journals.physiology.org/doi/full/10.1152/jn.00257.2019)    
-Banerjee S*, _Grover S*_, Ganesh S, Sridharan D (2019).  
+Banerjee S#, _Grover S_#, Ganesh S, Sridharan D (2019).  
 **Journal of Neurophysiology**. 
 
 12. [Unraveling causal mechanisms of top-down and bottom-up visuospatial attention with non-invasive brain stimulation.](https://link.springer.com/article/10.1007/s41745-017-0046-0)    

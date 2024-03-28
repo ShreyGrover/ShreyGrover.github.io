@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.in/citations?user=x40PdqgAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-3168-5543"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/shrey.grover.2/bibliography/public/"
-  researchgate     : "https://www.researchgate.net/profile/Shrey-Grover-3"
+  orcid            : #"https://orcid.org/0000-0003-3168-5543"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/myncbi/shrey.grover.2/bibliography/public/"
+  researchgate     : #"https://www.researchgate.net/profile/Shrey-Grover-3"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
