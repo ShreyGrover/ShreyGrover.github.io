@@ -21,13 +21,13 @@ repository               : "ShreyGrover/shreygrover.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ShreyGrover.jpg"
+  avatar           : "ShreyGrover.png"
   name             : "Shrey Grover"
   pronouns         : # example: "he/him"  
   bio              : "Postdoctoral Associate"
   #location         : "Boston, MA"
   employer         : "Boston University"
-  uri              : "https://shreygrover.github.io"
+  uri              : #"https://shreygrover.github.io"
   #email            : "grovers@bu.edu" 
 
   # Academic websites
